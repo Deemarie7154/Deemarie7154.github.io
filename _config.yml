@@ -1,11 +1,11 @@
 # Site settings
-author: Dwight Marie
-title: 
+author: D.Marie
+title: Trust The Process
 header-img: img/home-bg.png
 email: dwightmarie@gmail.com
-copyright_name: Dwight Marie
+copyright_name: D.Marie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Ruby 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: brownhumor
 github_username:  Deemarie7154
